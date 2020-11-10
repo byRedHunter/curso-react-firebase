@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/curso-react-firebase/static/css/main.13756385.chunk.css",
+    "main.js": "/curso-react-firebase/static/js/main.5391d8e0.chunk.js",
+    "main.js.map": "/curso-react-firebase/static/js/main.5391d8e0.chunk.js.map",
+    "runtime-main.js": "/curso-react-firebase/static/js/runtime-main.d1789c4e.js",
+    "runtime-main.js.map": "/curso-react-firebase/static/js/runtime-main.d1789c4e.js.map",
+    "static/js/2.ed033a80.chunk.js": "/curso-react-firebase/static/js/2.ed033a80.chunk.js",
+    "static/js/2.ed033a80.chunk.js.map": "/curso-react-firebase/static/js/2.ed033a80.chunk.js.map",
+    "index.html": "/curso-react-firebase/index.html",
+    "static/css/main.13756385.chunk.css.map": "/curso-react-firebase/static/css/main.13756385.chunk.css.map",
+    "static/js/2.ed033a80.chunk.js.LICENSE.txt": "/curso-react-firebase/static/js/2.ed033a80.chunk.js.LICENSE.txt",
+    "static/media/DragImage.scss": "/curso-react-firebase/static/media/bg-upload.3b65367b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d1789c4e.js",
+    "static/js/2.ed033a80.chunk.js",
+    "static/css/main.13756385.chunk.css",
+    "static/js/main.5391d8e0.chunk.js"
+  ]
+}
